@@ -9,5 +9,6 @@ Google Play: https://play.google.com/store/apps/dev?id=7696656736256201466<br />
 
 <p dir="auto"><a href="https://www.paypal.com/donate/?hosted_button_id=F86F4AB65QNYL" title="https://paypal.me/Antoni" rel="nofollow"><img align="left" height="50" src="https://camo.githubusercontent.com/59cfbcf1ae58c3d6f862b1633f575920df6db1ac8974973b5e7f341a388b292d/68747470733a2f2f7777772e6d65646961666972652e636f6d2f636f6e766b65792f373264632f697a3738797337767466736c3935377a672e6a7067" alt="Paypal" data-canonical-src="https://www.mediafire.com/convkey/72dc/iz78ys7vtfsl957zg.jpg" style="max-width: 100%;"></a></p>
 
-<br /><br />
+<br /><br /> 
+
 ![banner16](https://user-images.githubusercontent.com/83016119/210774201-98d2cf38-9a30-4120-8f12-6fe7bad27a84.png)
